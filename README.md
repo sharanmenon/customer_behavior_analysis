@@ -49,3 +49,8 @@ This project provides an end-to-end data analytics solution to understand custom
 ### 5. Executive Summary
 * View Presentation.pdf for final business insights and recommendations.
 
+* ---
+## 📬 Contact
+* **LinkedIn:** https://www.linkedin.com/in/sharan-menon-63a47a397/
+* **Email:** sharanmenon002@gmail.com
+
