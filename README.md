@@ -32,7 +32,7 @@ This project provides an end-to-end data analytics solution to understand custom
 
 ### 1. Clone the Repository
 * Open your terminal and run:
-`git clone https://github.com[Your-Username]/customer_behavior_analysis.git`
+`git clone https://github.com/sharanmenon/customer_behavior_analysis.git`
 
 ### 2. SQL Database Setup
 * Import `customer_shopping_behavior.csv` into **PostgreSQL**.
