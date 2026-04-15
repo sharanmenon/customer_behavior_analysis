@@ -27,3 +27,19 @@ This project provides an end-to-end data analytics solution to understand custom
 ## 📈 Key Results
 * **Top Category:** Clothing is the primary driver of both sales volume and revenue.
 * **Loyalty Insights:** 2,518 frequent buyers (6+ purchases) are not yet subscribers, representing a major marketing target.
+
+🚀 How to Run
+# 1. Clone the Repository
+Open your terminal and run:
+git clone https://github.com[Your-Username]/customer_behavior_analysis.git
+# 2. SQL Database Setup
+Import customer_shopping_behavior.csv into PostgreSQL.
+Execute the .sql scripts to generate the analysis tables.
+# 3. Python Environment
+Install necessary libraries: pip install pandas.
+Run the cleaning script to view the data transformation.
+# 4. Interactive Dashboard
+Open the .pbix file in Power BI Desktop.
+Note: Refresh the data source to link it to your local file path.
+# 5. Executive Summary
+View Presentation.pdf for the final business insights and recommendations.
