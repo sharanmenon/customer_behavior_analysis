@@ -39,7 +39,7 @@ This project provides an end-to-end data analytics solution to understand custom
 * Execute the .sql scripts to generate the analysis tables.
 
 ### 3. Python Environment
-* Install necessary libraries: `pip install pandas`.
+* Install necessary libraries.
 * Run the cleaning script to view the data transformation.
 
 ### 4. Interactive Dashboard
